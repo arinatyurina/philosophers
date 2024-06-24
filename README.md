@@ -1,8 +1,8 @@
-# MyPhilosophers Project
+# Philosophers Project
 
 ## Introduction
 
-The MyPhilosophers project is a unique take on the classic "Dining Philosophers" problem, illustrating synchronization issues and techniques in concurrent programming. This scenario involves a certain number of philosophers sitting at a round table, alternating between thinking and eating. Each philosopher needs two forks (or chopsticks) to eat, but there are only as many forks as there are philosophers, leading to potential conflicts and the need for proper synchronization to avoid deadlocks and ensure that all philosophers can eventually eat.
+The Philosophers project is a unique take on the classic "Dining Philosophers" problem, illustrating synchronization issues and techniques in concurrent programming. This scenario involves a certain number of philosophers sitting at a round table, alternating between thinking and eating. Each philosopher needs two forks (or chopsticks) to eat, but there are only as many forks as there are philosophers, leading to potential conflicts and the need for proper synchronization to avoid deadlocks and ensure that all philosophers can eventually eat.
 
 ## Setup
 
